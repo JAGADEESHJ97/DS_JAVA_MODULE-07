@@ -15,8 +15,8 @@ To write a java  program that removes all nodes from a linked list whose value m
 ```
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by: RENUSRI NARAHARASHETTY
-RegisterNumber:  212223240139
+Developed by: JAGADEESH J
+RegisterNumber:  212223110015
 */
 class RemoveNodes {
     static class Node {
